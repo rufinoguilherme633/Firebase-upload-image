@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464666863850",
+    "project_id": "upload-ds3m-guilherme",
+    "storage_bucket": "upload-ds3m-guilherme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464666863850:android:c506019c50b8e66d1ccf93",
+        "android_client_info": {
+          "package_name": "com.example.upload_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIBUDxsB1_5DbW0h6yap9gOJCFEXV0nKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
